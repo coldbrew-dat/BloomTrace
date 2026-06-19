@@ -132,9 +132,6 @@ Bloomtrace/
 
 ## Demo
 
-Add a GIF or video demonstration here.
-
-Example:
 
 ![Bloomtrace Demo](gif-asset.gif)
 
